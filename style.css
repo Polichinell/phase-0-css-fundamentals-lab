@@ -3,3 +3,51 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  text-align: center;
+}
+
+nav { 
+  text-align: center;
+  background-color: aquamarine;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+
+#bla {
+  max-width: 800px;
+  text-align: center;
+  margin: auto;
+}
+
+figure { 
+  text-align: center;
+  font-size: small;
+  justify-content: center;
+}
+#box1 { 
+  float: left;
+  background-color: rgb(112, 112, 231);
+  width: 25%;
+  text-align: center;
+}
+#box2 { 
+  float: left;
+  background-color: rgb(112, 112, 231);
+  width: 25%;
+  text-align: center;
+}
+#box3 { 
+  float: left;
+  background-color: rgb(112, 112, 231);
+  width: 25%;
+  text-align: center;
+}
+#box4 { 
+  float: left;
+  background-color: rgb(112, 112, 231);
+  width: 25%;
+  text-align: center;
+}
